@@ -81,6 +81,9 @@ img{
   height:fit-content;
   margin: auto;
 }
+.greeting {
+  text-align: center;
+  }
 @media (max-width: 600px) {
   .column {
     flex: 100%;
