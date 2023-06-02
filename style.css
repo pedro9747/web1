@@ -61,6 +61,10 @@ a {
   color: white;
   text-decoration: none;
 }
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
 .nav-links {
   display: flex;
   align-items: center;
@@ -83,6 +87,9 @@ img{
 }
 .greeting {
   text-align: center;
+  }
+  .video{
+    text-align: center;
   }
 @media (max-width: 600px) {
   .column {
